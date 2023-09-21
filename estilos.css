@@ -1,0 +1,50 @@
+.tarjeta{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #e28be0;
+    border-radius: 20px;
+    display: grid;
+    justify-content: center;
+    box-shadow:  -3px 7px 10px 4px #cd4ee3;
+    
+}
+.margenes{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 420px;
+    height: 416px;
+}
+.tarjeta p{
+    text-align: left;
+}
+
+.imagen{
+    margin: auto;
+    margin-top: 30px;
+    position: relative;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px #2ffff5;
+    }
+
+.imagen img{
+    width: 100%;
+    height: auto
+}
+
+.textos{
+    font-size: large;
+    color: azure;
+    font-family: math;
+}
+
+.tabla{
+    padding: 8%;
+    width: 200px;
+}
+
+.tabla td{
+    line-height: 5%;
+
+}
